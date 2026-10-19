@@ -17,6 +17,3 @@ RESTful ASP.NET Core Web API for the RaceDay event management system. Work is on
 
 ## Authentication
 Cookie-based session. Passwords are hashed with the ASP.NET Core PasswordHasher. The role is stored in the session and enforced with Authorize attributes.
-
-## CI/CD
-![Green build](docs/ci-green.png)
